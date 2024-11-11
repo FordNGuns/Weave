@@ -1,4 +1,4 @@
-## This fork has been merged as of 11/10/2024 => https://github.com/andrewtdiz/Weave/pull/1
+### This fork has been merged as of 11/10/2024 --> https://github.com/andrewtdiz/Weave/pull/1
 ---
 
 <img align="left" src="./gh-assets/logo.svg" height="100px" width="100px" alt="Fusion"><a href="https://andrewtdiz.github.io/Weave/"><img align="right" src="./gh-assets/link-docs.svg" alt="Docs"></a><a href="https://github.com/andrewtdiz/Weave/releases/latest"><img align="right" src="./gh-assets/link-download.svg" alt="Download"></a><img src="./gh-assets/clearfloat.svg">
